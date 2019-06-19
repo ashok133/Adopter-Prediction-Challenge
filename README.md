@@ -19,7 +19,8 @@ Challenge completed with first position, metrics:
 | Metric  | Value |
 | ------------- | ------------- |
 | `F1 score`  | 0.15028  |
-| Content Cell  | Content Cell  |
+
+### ---
 
 | Metric | Value |
 | ------ | ----- |
