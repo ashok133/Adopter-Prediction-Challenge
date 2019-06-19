@@ -15,9 +15,15 @@ The task is to build the best predictive model for the next marketing campaign, 
 ### Results
 
 Challenge completed with first position, metrics:
+
+| Metric  | Value |
+| ------------- | ------------- |
+| `F1 score`  | 0.15028  |
+| Content Cell  | Content Cell  |
+
 | Metric | Value |
 | ------ | ----- |
-| `F1 score` | 0.15028|
+|  | |
 | `Recall` | 0.24026|
 | `Precision` | 0.10934|
 | `Accuracy` | 0.95170|
